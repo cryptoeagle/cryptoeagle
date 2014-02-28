@@ -1,0 +1,240 @@
+<¸dÊïœ•Í!¿`¡½ÝBÅ
+fA´
+Þ¿
+çG©„|³
+¨ù
+
+å¥
+
+'	ª÷
+	÷T
+ëk
+4•
+t™
+#5ô
+*I9
+4”Õ
+4”Õ
+9‰
+A.
+
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼?ì
+¼ŒT
+¼ .
+Èûä
+Í:
+Ïv´
+Ïv´
+ÏÔ´
+Õµž
+Öôž
+ä(
+ô£
+p)
+.
+L+ž
+Ç
+„÷ãÞ
+
+
+
+
+
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
+Paget 
+(no label)
+se a passphrase of <b>10 or more random characters</b>, or <b>eight or more words</b>.es backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.nBThis operation needs your wallet passphrase to decrypt the wallet.ialogose your passphrase, you will <b>LOSE ALL OF YOUR ZETACOINS</b>!
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+%n hour(s)
+BitcoinGUI
+%n week(s)
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIe nodes that process your transaction and helps to support the network. Do you want to pay the fee?
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIinet language, for example "de_DE" (default: system locale)
+UI optionsp
+ client port on the router. This only works when your router supports UPnP and it is enabled.ose the default subdivision unit to show in the interface and when sending coins.o
+Proxy &IP:y a tray icon after minimizing the window.r Interface &language:m
+Confirmed:tocoding URI into QR Code. 
+RPCConsole
+RPCConsole
+
+RPCConsole
+
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+
+Clear &Allr wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.
+
+Send Coinss
+
+ 
+
+
+Clear &AllDialogoe you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. edn
+%1/offline
+bbe spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.
+Net amount
+
+e
+odel
+ions)a
+Copy label
+Edit label
+
+Last month
+Min amount
+
+
+This month
+
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+:v4: %sfrom a corrupt wallet.datin-coreannot resolve -externalip address: '%s'd\ 
+  system error: hen a wallet transaction changes (%s in cmd is replaced by TxID)on any port. Use -listen=0 if you want this.orite transaction index6Letion send buffer, <n>*1000 bytes (default: 1000)lgi for SSL setup instructions)re: 0)fp0) may need to upgrade.s might be missing or incorrect.mestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.

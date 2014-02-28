@@ -1,0 +1,232 @@
+<¸dÊïœ•Í!¿`¡½ÝBÅ
+wœ
+G©"Ž
+¨E
+
+³´É
+å¥
+
+
+	÷T
+ëk
+4•
+t™
+#5ô
+*I9
+4”Õ
+4”Õ
+9‰
+A.
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼?ì
+¼ŒT
+¼ .
+Èûä
+Í:
+Ïv´
+Ïv´
+ÏÔ´
+Õµž
+Öôž
+ä(
+÷
+ô£
+p)
+.
+Ò9n
+Ç
+:÷ãÞ
+
+
+`
+
+
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
+  CryptoEagle addresso
+(no label)eDialog new passphrase to the wallet.<br/>Please use a passphrase of <b>10 or more random characters</b>, or <b>eight or more words</b>. file will become useless as soon as you start using the new, encrypted wallet.dt.~f you encrypt your wallet and lose your passphrase, you will <b>LOSE ALL OF YOUR ZETACOINS</b>!
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+%n hour(s)
+BitcoinGUI
+
+%n week(s)
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI%1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIrrentered address "%1" is not a valid CryptoEagle address.t: system locale)
+UI options
+art CryptoEagle on system login
+wfirm options resetthe proxy (e.g. 127.0.0.1)ad of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.ns are processed quickly. Most transactions are 1 kB.
+Proxy &IP:after minimizing the window.terface &language:
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsoleVa
+Clear &All rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.d
+Send Coinsl
+
+E
+
+
+Clear &AllSignVerifyMessageDialogsss, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.~gnaturepu agree to.
+%1/offlineK
+
+ys block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.
+Net amount
+
+
+
+eModelneModelTableModel
+Copy label
+
+Edit label
+Last month
+Min amount
+This month
+
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+íYYddress: '%s'Y
+wnyCoinYp changes (%s in cmd is replaced by block hash)veproxy address: '%s'id amount for -mintxfee=<amount>: '%s'estnet: 18332)...ugh file descriptors available.BOnly accept block chain matching built-in checkpoints (default: 1)coin-corebitcoin-core ver certificate file (default: server.cert)ooret applicationsp the listening port (default: 0)xy)eibitcoin-corer wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.led

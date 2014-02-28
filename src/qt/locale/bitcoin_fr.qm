@@ -1,0 +1,220 @@
+<¸dÊïœ•Í!¿`¡½ÝBÅe
+iñ^fËä;
+¨
+èÉ}Š
+C@.
+
+å¥
+
+
+	÷T
+ëk
+4•
+t™
+#5ô
+*I9
+4”Õ
+4”Õ
+9‰
+A.
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼?ì
+¼ŒT
+¼ .
+Èûä
+Í:
+Ïv´
+Ïv´
+ÏÔ´
+Õµž
+Öôž
+ä(
+ô£
+	.i
+p)
+.
+öL+ž
+Ç
+€<>
+
+
+
+
+
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.gerd own a CryptoEagle addresskeep track of who is paying you.r
+(no label)ep reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.g stolen by malware infecting your computer.p
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+%n hour(s)
+BitcoinGUI
+%n week(s)
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIransaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIAddressDialogpMessageBox
+UI optionsct through SOCKS proxy: the tray instead of the taskbaroin client port on the router. This only works when your router supports UPnP and it is enabled.onnect to the CryptoEagle network through a SOCKS proxy (e.g. when connecting through Tor).awhen the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.s are processed quickly. Most transactions are 1 kB.
+Proxy &IP: proxy address is invalid.d to show CryptoEagle addresses in the transaction list or not.f date. Your wallet automatically synchronizes with the CryptoEagle network after a connection is established, but this process has not completed yet.OverviewPageymentServerialog
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsoleinsDialog
+Clear &All send to each address once per send operation. 
+Send Coinst 
+
+a
+
+
+Clear &AllEnter CryptoEagle signaturesuifyMessageDialogupmessage fields logo
+%1/offline
+te
+Net amountéions)pted ou
+Copy label
+Edit labelbel
+Last month
+Min amountaction details
+This month
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+ep the connection openport %u for listening on IPv6, falling back to IPv4: %sand always listen on it. Use [host]:port notation for IPv6woin-corednnError: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.o y block hash)block infowrite transaction indexa=filetnDept block chain matching built-in checkpoints (default: 1)tore daemon and accept commandson of socks proxy to use (4-5, default: 5) er certificate file (default: server.cert)sp coin-core data directory-coreitiven /Use UPnP to map the listening port (default: 0)dys read correctly, but transaction data or address book entries might be missing or incorrect.
+
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.coreˆ

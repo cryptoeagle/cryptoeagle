@@ -1,0 +1,215 @@
+<¸dÊïœ•Í!¿`¡½ÝB
+
+ë
+
+öˆî
+<œ
+¬Xó´
+dH”
+¨Ù
+
+å¥
+
+
+	áí‰
+	÷T
+ëk
+4•
+t™
+#5ô
+4”Õ
+9‰
+A.
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼ŒT
+¼ .
+Èûä
+Í:
+ÏÔ´
+
+Õµž
+Öôž
+ô£
+p)
+~âÞ
+Ç
+
+
+
+
+
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.okPageeBookPager
+(no label) encryptionrrated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.seDialoge
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIh goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIsDialogsd
+
+UI options
+
+eow amounts in:oKer selecting Quit in the menu.
+Proxy &IP:The supplied proxy address is invalid..rng, try to reduce the text for label / message.
+RPCConsole
+RPCConsole
+
+RPCConsole
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+Clear &All if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.
+Send Coins
+
+d
+
+
+Clear &Allaeng failed.check the address and try again.agto ensure it was signed with the specified CryptoEagle addresst
+%1/offline
+
+o this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.
+Net amount
+
+sc
+nsaction was received.aransactionTableModel
+
+Copy label
+Edit label
+Last month
+Min amount
+
+This month
+
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+ror listening on IPv4: %sd always listen on it. Use [host]:port notation for IPv6t: 1 when listening and no -externalip)let requires newer version of CryptoEaglemoren ck chain for missing wallet transactionsetup instructions)end commands to node running on <ip> (default: 127.0.0.1)e 5000) to %s on this computer (bind returned error %d, %s)n
+map the listening port (default: 1 when listening)JSON-RPC connectionst Displayed transactions may not be correct! You may need to upgrade, or other nodes may need to upgrade.Coin will not work properly.
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.

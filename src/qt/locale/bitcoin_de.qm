@@ -1,0 +1,219 @@
+<¸dÊïœ•Í!¿`¡½ÝB
+'Ïþ
+îA´pšÃ.”U	
+¨
+!Ö¨n
+
+å¥
+
+
+	÷T
+ëk
+4•
+t™
+#5ô
+*I9
+4”Õ
+4”Õ
+9‰
+A.
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼?ì
+¼ŒT
+¼ .
+Èûä
+Í:
+Ïv´
+Ïv´
+ÏÔ´
+Õµž
+Öôž
+ä(
+ô£
+p)
+.
+€L+ž
+Ç#
+
+
+
+
+
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.nm
+(no label)hs aT
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+%n hour(s)
+BitcoinGUI
+%n week(s)
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIessDialog the address book.
+UI optionsroxy:ins.ndh
+Proxy &IP:nn addresses in the transaction list or not.ined balance that has not yet maturedyet count toward the current balanceCannot start cryptoeagle: click-to-pay handlerve QR Code
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+
+Clear &All send operation.ed!
+Send Coinst to pay must be larger than 0.ransaction fee is included.
+
+ecipient
+
+
+Clear &AllCryptoEagle signaturernegain.caock was cancelled.
+%1/offline
+  ts
+Net amountTransactionDescions)
+deled frombleModelopy address
+Copy label
+
+Edit labelz
+Last month
+Min amount
+This month
+
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+drt notation for IPv6rhdeizten=0 if you want this.cfication is (0-4, default: 3)mintxfee=<amount>: '%s': 8332 or testnet: 18332)oading wallet...* e that many cores free, default: 0)e on client startup (default: 1 when no -debug)reitcoin-coresmalltcoin-corevzuhtamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.

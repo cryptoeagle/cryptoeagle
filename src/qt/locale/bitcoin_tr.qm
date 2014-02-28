@@ -1,0 +1,242 @@
+<¸dÊïœ•Í!¿`¡½ÝBÅ
+ºA´
+Z°ÿ'y
+¨E
+
+å¥
+
+
+C	v‘
+	÷T
+ëk
+4•
+t™
+#5ô
+*I9
+4”Õ
+4”Õ
+9‰
+
+A.
+M"Ù
+[wÞ
+d<
+d™Ç
+e¨…
+|þ
+‘µ3
+–9
+˜Iœ
+¬,…
+ºMA
+¼?ì
+¼ŒT
+¼ .
+Èûä
+Í:
+Ïv´
+Ïv´
+ÏÔ´
+Õµž
+Öôž
+
+ä(
+ô£
+p)
+.
+VL+ž
+Ç
+Êä6“
+yžéS
+
+
+
+
+•
+This is experimental software.
+
+Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.aPagelt
+(no label)
+abackups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.olen by malware infecting your computer. passphrases do not match.sphraseDialog: The Caps Lock key is on!
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+%n hour(s)
+BitcoinGUI
+%n week(s)
+BitcoinGUI
+BitcoinGUI
+&Addresses
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+
+
+
+Amount: %2
+Type: %3
+Address: %4
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUIdes that process your transaction and helps to support the network. Do you want to pay the fee?
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+Up to date
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+BitcoinGUI
+
+BitcoinGUI
+BitcoinGUIöai
+UI options
+t&ion is enabled, the application will be closed only after selecting Quit in the menu. kB.
+Proxy &IP:er restarting CryptoEagle.
+that have yet to be confirmed, and do not yet count toward the current balanceo-pay handlerlogi
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+Build date
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+On testnet
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsole
+RPCConsoleinsDialog
+Clear &Alldress once per send operation.Remove all transaction fields
+Send Coinsl
+
+ 
+
+
+Clear &Allr1nVerifyMessageDialogmageDialogentered address is invalid.ful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.
+%1/offline
+
+
+
+zns must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.
+
+Net amount
+
+
+
+
+ransactionTableModelm
+
+
+Copy label
+
+Edit labelç
+Last month
+Min amount
+
+
+This month
+
+Send Coins
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+WalletView
+
+
+
+
+
+
+
+
+
+
+%s
+It is recommended you use the following random password:
+rpcuser=cryptoeaglerpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s "CryptoEagle Alert" admin@foo.com
+ae-coren-coreDone loading s might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.rror: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds! xg DNS lookup (default: 1 unless -connect)ore
+orebitcoin-coree network debugging informationeversion of socks proxy to use (4-5, default: 5))y/low-fee transactions in bytes (default: 27000)the number of script verification threads (up to 16, 0 = auto, <0 = leave that many cores free, default: 0)1nr own public address build - use at your own risk - do not use for mining or merchant applicationsunt too smallcoreverifying blocks...
+nl1up.
+
+
+%s
+If the file does not exist, create it with owner-readable-only file permissions.vage failed
