@@ -68,7 +68,7 @@ public:
 
         vSeeds.push_back(CDNSSeedData("69.64.50.226", "69.64.50.226"));
         vSeeds.push_back(CDNSSeedData("50.30.47.38", "50.30.47.38"));
-        //vSeeds.push_back(CDNSSeedData("cryptoeagle.com/pool/", "cryptoeagle.com/pool/"));
+        //vSeeds.push_back(CDNSSeedData("crea.poolz4you.com", "crea.poolz4you.com"));
   
 
         base58Prefixes[PUBKEY_ADDRESS] = 28;
